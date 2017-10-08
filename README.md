@@ -13,7 +13,7 @@ Run file： python improved_GAN.py
 
 BTW, in my example, my classifer is for CIFAR10 dataset,
 
-and labeled input: unlabeled input : generated fake input = 1 : 1 : 1
+and labeled input : unlabeled input : generated fake input = 1 : 1 : 1
 
 Users also can change the settings according to my program's comments.
 
