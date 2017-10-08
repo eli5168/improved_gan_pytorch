@@ -23,8 +23,6 @@ For Labeled Loss, it is also equal to -loss_target + log_sum_exp(before_softmax_
 
 ![image](https://github.com/eli5168/improved_gan_pytorch/blob/master/acc.png)
 
-Highest accuracy: 98%
-
 ![image](https://github.com/eli5168/improved_gan_pytorch/blob/master/fake_samples_epoch_300.png)
 
 300th epoch
