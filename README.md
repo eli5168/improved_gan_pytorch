@@ -17,3 +17,7 @@ Users can change the setting according to my program's comment.
 ![image](https://github.com/eli5168/improved_gan_pytorch/blob/master/acc.png)
 
 Highest accuracy: 98%
+
+[image](https://github.com/eli5168/improved_gan_pytorch/blob/master/fake_samples_epoch_300.png)
+
+300th epoch
