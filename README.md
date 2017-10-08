@@ -1,7 +1,9 @@
 # improved_gan_pytorch
 Pytorch implementation of DCGAN based on "[Improved Techniques for Training GANs](http://arxiv.org/abs/1606.03498)".
 
-Feature matching and semi-supervised GAN have be reimplemented. So far, other improved techniques haven't been added. 
+Feature matching and semi-supervised GAN have be reimplemented. 
+
+So far, other improved techniques haven't been added. 
 
 # Pytorch Version: 2.0.3 and Python 2.7
 
