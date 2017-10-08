@@ -12,5 +12,6 @@ and labeled input: unlabeled input : generated fake input = 1 : 1 : 1
 Users can change the setting according to my program's comment.
 
 
+# Semi-supervised + Feature matching CIFAR10 Classification
 
-
+![image](https://github.com/eli5168/improved_gan_pytorch/blob/master/acc.png)
