@@ -11,6 +11,8 @@ and labeled input: unlabeled input : generated fake input = 1 : 1 : 1
 
 Users can change the setting according to my program's comment.
 
+P.S. For Generator Loss, it is also equal to -loss_unlabled_fake + loss_feature_matching.
+     For Labeled Loss, it is also equal to -loss_target + log_sum_exp(before_softmax_labeled_output)
 
 # Semi-supervised + Feature matching CIFAR10 Classification
 
