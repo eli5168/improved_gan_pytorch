@@ -7,7 +7,7 @@ So far, other improved techniques haven't been added.
 
 # Pytorch Version: 2.0.3 and Python 2.7
 
-In my example, our classifer is for CIFAR10 dataset,
+In my example, my classifer is for CIFAR10 dataset,
 
 and labeled input: unlabeled input : generated fake input = 1 : 1 : 1
 
