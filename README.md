@@ -23,6 +23,12 @@ For Generator Loss, it is also equal to -loss_unlabled_fake + loss_feature_match
 
 For Labeled Loss, it is also equal to -loss_target + log_sum_exp(before_softmax_labeled_output)
 
+# To do
+1. to average input labeled data over 10 classes subset.
+2. to adjust the network structure for high accuracy classification
+3. to reimplement other techniques in improved GAN
+4. to reimplement "[Bad GAN](https://arxiv.org/abs/1705.09783)" paper
+
 # Semi-supervised + Feature matching CIFAR10 Classification
 
 ![image](https://github.com/eli5168/improved_gan_pytorch/blob/master/example.png)
